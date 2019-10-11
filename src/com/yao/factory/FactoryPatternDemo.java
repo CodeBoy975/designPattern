@@ -3,7 +3,7 @@ package com.yao.factory;
 import com.yao.factory.Interface.Shape;
 
 /**
- * 工厂demo
+ * 简单工厂demo
  *
  * @author pengjie_yao
  * @date 2019/10/1110:28

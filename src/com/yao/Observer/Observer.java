@@ -7,5 +7,9 @@ package com.yao.Observer;
 public abstract class Observer {
 
     protected Subject subject;
+
+    /**
+     *  更新订阅信息
+     */
     public abstract void update();
 }

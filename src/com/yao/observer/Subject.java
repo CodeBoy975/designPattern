@@ -34,7 +34,6 @@ public class Subject {
     private void notifyAllObservers() {
         for (Observer observer : observers) {
             observer.update();
-
         }
     }
 

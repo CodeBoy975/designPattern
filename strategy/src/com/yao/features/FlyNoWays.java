@@ -1,6 +1,7 @@
 package com.yao.features;
 
-import com.yao.strategy.features.Interface.FlyInterface;
+
+import com.yao.features.Interface.FlyInterface;
 
 /**
  * 描述： 不会飞

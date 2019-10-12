@@ -1,6 +1,7 @@
 package com.yao.features;
 
-import com.yao.strategy.features.Interface.QuackInterface;
+
+import com.yao.features.Interface.QuackInterface;
 
 /**
  * 描述： 实现呱呱叫

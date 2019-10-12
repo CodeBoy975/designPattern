@@ -1,6 +1,7 @@
 package com.yao.features;
 
-import com.yao.strategy.features.Interface.FlyInterface;
+
+import com.yao.features.Interface.FlyInterface;
 
 /**
  * 描述： 仅仅会飞的能力

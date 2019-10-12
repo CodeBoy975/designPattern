@@ -1,7 +1,8 @@
 package com.yao;
 
-import com.yao.strategy.features.FlyRocketPowered;
-import com.yao.strategy.features.MuteQuack;
+
+import com.yao.features.FlyRocketPowered;
+import com.yao.features.MuteQuack;
 
 /**
  * 描述： 策略模式测试例子

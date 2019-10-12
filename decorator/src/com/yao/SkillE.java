@@ -1,6 +1,7 @@
 package com.yao;
 
-import com.yao.decorator.Interface.Hero;
+
+import com.yao.Interface.Hero;
 
 /**
  * E技能

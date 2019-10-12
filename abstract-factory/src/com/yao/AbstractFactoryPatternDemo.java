@@ -1,7 +1,8 @@
 package com.yao;
 
-import com.yao.abstractfactory.Interface.Color;
-import com.yao.abstractfactory.Interface.Shape;
+
+import com.yao.Interface.Color;
+import com.yao.Interface.Shape;
 
 /**
  *  抽象工厂的Demo测试

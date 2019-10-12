@@ -1,6 +1,7 @@
 package com.yao;
 
-import com.yao.decoratordemo2.Interface.Shape;
+
+import com.yao.Interface.Shape;
 
 /**
  *  Shape接口的抽象装饰类

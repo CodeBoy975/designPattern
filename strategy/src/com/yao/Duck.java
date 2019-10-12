@@ -1,7 +1,8 @@
 package com.yao;
 
-import com.yao.strategy.features.Interface.FlyInterface;
-import com.yao.strategy.features.Interface.QuackInterface;
+
+import com.yao.features.Interface.FlyInterface;
+import com.yao.features.Interface.QuackInterface;
 
 /**
  * 描述： 超类

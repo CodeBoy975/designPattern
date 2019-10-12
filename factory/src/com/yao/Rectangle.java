@@ -1,6 +1,7 @@
 package com.yao;
 
-import com.yao.factory.Interface.Shape;
+
+import com.yao.Interface.Shape;
 
 /**
  * 矩形

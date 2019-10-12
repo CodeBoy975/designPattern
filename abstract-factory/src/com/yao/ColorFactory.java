@@ -1,7 +1,8 @@
 package com.yao;
 
-import com.yao.abstractfactory.Interface.Color;
-import com.yao.abstractfactory.Interface.Shape;
+
+import com.yao.Interface.Color;
+import com.yao.Interface.Shape;
 
 /**
  * 填充颜色的工厂

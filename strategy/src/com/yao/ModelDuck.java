@@ -1,7 +1,8 @@
 package com.yao;
 
-import com.yao.strategy.features.FlyNoWays;
-import com.yao.strategy.features.Quack;
+
+import com.yao.features.FlyNoWays;
+import com.yao.features.Quack;
 
 /**
  * 描述： 模型鸭

@@ -1,6 +1,7 @@
 package com.yao;
 
-import com.yao.abstractfactory.Interface.Color;
+
+import com.yao.Interface.Color;
 
 /**
  * @author pengjie_yao

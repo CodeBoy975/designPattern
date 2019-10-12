@@ -1,4 +1,4 @@
-package com.yao.Observer;
+package com.yao.observer;
 
 import java.util.ArrayList;
 import java.util.List;

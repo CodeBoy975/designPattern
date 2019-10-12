@@ -1,4 +1,4 @@
-package com.yao.Proxy;
+package com.yao.proxy;
 
 /**
  *  图片接口
@@ -6,5 +6,8 @@ package com.yao.Proxy;
  * @date 2019/10/1116:54
  */
 public interface Image {
+    /**
+     *  显示
+     */
     void display();
 }

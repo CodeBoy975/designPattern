@@ -1,4 +1,4 @@
-package com.yao.Proxy;
+package com.yao.proxy;
 
 /**
  *  图片实现

@@ -1,4 +1,4 @@
-package com.yao.Prototype;
+package com.yao.prototype;
 
 /**
  * @author pengjie_yao

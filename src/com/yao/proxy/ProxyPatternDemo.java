@@ -1,4 +1,4 @@
-package com.yao.Proxy;
+package com.yao.proxy;
 
 /**
  *  菜鸟笔记例子

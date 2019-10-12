@@ -1,4 +1,4 @@
-package com.yao.Proxy;
+package com.yao.proxy;
 
 /**
  *  图片实现，这里的代理，当第一次没有的时候去加载后返回；当第二次加载的时候，则不需要去磁盘加载。

@@ -1,4 +1,4 @@
-package com.yao.Observer;
+package com.yao.observer;
 
 /**
  *  二进制

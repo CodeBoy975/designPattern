@@ -1,4 +1,4 @@
-package com.yao.Prototype;
+package com.yao.prototype;
 
 import java.util.Hashtable;
 

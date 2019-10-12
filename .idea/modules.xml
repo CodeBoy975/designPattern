@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstract-factory/abstract-factory.iml" filepath="$PROJECT_DIR$/abstract-factory/abstract-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chain-responsibility/chain-responsibility.iml" filepath="$PROJECT_DIR$/chain-responsibility/chain-responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite/composite.iml" filepath="$PROJECT_DIR$/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator-demo2/decorator-demo2.iml" filepath="$PROJECT_DIR$/decorator-demo2/decorator-demo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/designPattern.iml" filepath="$PROJECT_DIR$/designPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single/single.iml" filepath="$PROJECT_DIR$/single/single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy-demo2/strategy-demo2.iml" filepath="$PROJECT_DIR$/strategy-demo2/strategy-demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template/template.iml" filepath="$PROJECT_DIR$/template/template.iml" />
     </modules>
   </component>
 </project>

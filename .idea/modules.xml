@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/decorator-demo2/decorator-demo2.iml" filepath="$PROJECT_DIR$/decorator-demo2/decorator-demo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/designPattern.iml" filepath="$PROJECT_DIR$/designPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
